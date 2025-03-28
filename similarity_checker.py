@@ -83,7 +83,7 @@ def calculate_similarity(filepath1, filepath2):
 
     # --- Main part of the script ---
 if __name__ == "__main__":
-    # Define the file paths (make sure they match your file names)
+    # Define the file paths  -  (make sure they match your file names)
     file1 = 'doc1.txt'
     file2 = 'doc2.txt'
 
